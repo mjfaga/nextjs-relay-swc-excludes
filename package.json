@@ -10,6 +10,7 @@
     "relay": "relay-compiler --watch"
   },
   "dependencies": {
+    "@stigg/react-sdk": "^5.17.0",
     "next": "14.2.8",
     "react": "^18",
     "react-dom": "^18",
