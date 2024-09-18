@@ -11,7 +11,7 @@
   },
   "dependencies": {
     "@stigg/react-sdk": "^5.17.0",
-    "next": "14.2.8",
+    "next": "14.2.10",
     "react": "^18",
     "react-dom": "^18",
     "react-relay": "18.0.0",
